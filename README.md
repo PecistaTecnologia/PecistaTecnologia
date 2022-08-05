@@ -6,5 +6,6 @@
 ##
 
 <div align="center">
- <img src="https://drive.google.com/file/d/1C0d6cPoBVheBZU2Dw9thwMeD0kanpFyw/view?usp=sharing">
+  <a href="https://github.com/PecistaTecnologia">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PecistaTecnologia&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
