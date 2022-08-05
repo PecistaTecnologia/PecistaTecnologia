@@ -14,6 +14,6 @@
   
 <div>
 
-  
+ ![Snake animation](https://github.com/Fjunior08/Fjunior08/blob/output/github-contribution-grid-snake.svg)
   
 </div>
