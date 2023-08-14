@@ -1,5 +1,5 @@
 
-## Olá, Eu sou a rede Pecista/Kaizen, á maior casa de auto peças do DF!! 👋
+## Olá, Eu sou a rede Pecista, á maior casa de auto peças do DF!! 👋
 
 - 🔭 Todas as Peças em Geral.
 
